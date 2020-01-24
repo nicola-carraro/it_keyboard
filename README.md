@@ -40,7 +40,7 @@ You can build the [it_keyboard](./src/it_keyboard.klx) file in the [src](./src) 
 
 ## Dead Keys
 
-The grey keys in the picture are "dead keys". This means that the symbols on them can be combined with different letters.
+The grey keys in the pictures are "dead keys". This means that the symbols on them can be combined with different letters.
 
 For instance, if you first press **Tilde** (**~**, i.e. **Shft** + **Alt-Gr** + **ù**) and then press **a**, **e**, **i** etc., you will obtain the characters "ă", "ĕ", "ĭ" etc.
 
