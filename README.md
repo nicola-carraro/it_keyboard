@@ -45,7 +45,7 @@ The grey keys in the picture are "dead keys". This means that the symbols on the
 
 For instance, if you first press **Tilde** (**~**, i.e. **Shft** + **Alt-Gr** + **ù**) and then press **a**, **e**, **i** etc., you will obtain the characters "ă", "ĕ", "ĭ" etc.
 
-If you want the standalone symbol (not combined with any letter) type the **Dead Key** followed by a space.
+If you want the standalone symbol (not combined with any letter) type the corresponding dead key followed by a space.
 
 Here is a list of the dead keys and the letters that they can be combined with:
 
