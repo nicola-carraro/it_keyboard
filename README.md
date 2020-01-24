@@ -3,6 +3,12 @@ Italian Linux Keyboard for Windows
 
 An Italian keyboard layout for Windows, which reproduces the standard Italian Linux layout.
 
+## Why
+
+This layout is extremely useful if your physical keyboard is Italian and you need to write non-Italian characters.
+
+It provides the extra characters for most languages that use the latin alphabet (such as "ß" in German, "ê" in French or "ű" in Hungarian), and the ones for programming languages and shells.
+
 
 ## Installation
 
@@ -31,13 +37,6 @@ You can build the [it_keyboard](./src/it_keyboard.klx) file in the [src](./src) 
 ### Shft + AltGr
 ![Ctrl](./img/ShftAltGr.jpg)
 
-
-
-## Why
-
-This layout is extremely useful if your physical keyboard is Italian and you need to write non-Italian characters.
-
-It provides the extra characters for most languages that use the latin alphabet (such as "ß" in German, "ê" in French or "ű" in Hungarian), and the ones for programming languages and shells.
 
 ## Dead Keys
 
